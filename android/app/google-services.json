@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118911947465",
+    "project_id": "namaz-traker",
+    "storage_bucket": "namaz-traker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118911947465:android:7b4325829a2fbe8b653318",
+        "android_client_info": {
+          "package_name": "com.example.Habo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcny6ZTi6jB_gKsT1WA6m--cwtpuz99lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
